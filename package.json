@@ -1,10 +1,10 @@
 {
-  "config-path":[{"name":"github","path":"https://github.com/liqingyong/coupon/blob/master/package.json"}],
+  "config-path":[{"name":"github","path":"https://raw.githubusercontent.com/liqingyong/coupon/master/package.json"}],
   "web":{
   "name": "coupon-web",
   "version": "0.1.0"
   },
   "server":{
-	"serverPath":"http://127.0.0.1:8080"	
+	"serverPath":"http://127.0.0.1:8080/SeleniumServer"	
   }
 }
