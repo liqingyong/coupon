@@ -1,5 +1,5 @@
 {
-  "config-path":[{"name":"github","path":"https://github.com/liqingyong/coupon/blob/master/package.json"}]	
+  "config-path":[{"name":"github","path":"https://github.com/liqingyong/coupon/blob/master/package.json"}],
   "web":{
   "name": "coupon-web",
   "version": "0.1.0"
