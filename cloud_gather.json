@@ -1,5 +1,5 @@
 {
     "readerView":"http://gather.eternitystar.top",
-    "readerViewS":"ws://gather.eternitystar.top",
-    "notesUpdate":""
+    "readerViewS":"ws://gather.eternitystar.top/wsBarrage?",
+    "notesUpdate":"https://eternitystar.top/update/app.json"
 }
